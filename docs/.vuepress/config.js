@@ -1,5 +1,5 @@
 module.exports = {
-  base:'/CentChuan-UI/',
+  base:'/vue-ui-demo/',
   title: 'CC UI',
   description: '一个好用的 UI 框架',
   themeConfig: {

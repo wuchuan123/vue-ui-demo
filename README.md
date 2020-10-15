@@ -1,7 +1,7 @@
-<p align="center"><a href="https://wh2887.github.io/init-ui/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://gitee.com/hellow2887/blogimage/raw/master/img/db06fddc-c078-41e4-b574-13810657fccf_200x200%20(1).png" alt="Init UI logo"></a></p>  
+<p align="center"><a href="https://wuchuan123.github.io/vue-ui-demo/" target="_blank" rel="noopener noreferrer"><img width="100" src="./src/images/circle.png" alt="CC UI logo"></a></p>  
 
 <p align="center">
-    <a href="https://badge.fury.io/js/init-ui"><img src="https://badge.fury.io/js/init-ui.svg" alt="npm version" height="18"></a>
+    <a href="https://wuchuan123.github.io/vue-ui-demo/"><img src="https://badge.fury.io/js/init-ui.svg" alt="npm version" height="18"></a>
     <img alt="Travis (.org)" src="https://img.shields.io/travis/wh2887/init-ui">
 </p>
 
@@ -57,7 +57,7 @@
     }
     ```
 ## 文档
-[CC UI 官网](https://wh2887.github.io/init-ui/)
+[CC UI 官网](https://wuchuan123.github.io/vue-ui-demo/)
 ## 提问
 [issues](https://github.com/wuchuan123/vue-ui-demo/issues)
 ## 变更记录
