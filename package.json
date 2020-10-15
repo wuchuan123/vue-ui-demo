@@ -1,7 +1,7 @@
 {
-  "name": "init-ui",
+  "name": "CentChuan-Vue-UI",
   "version": "0.0.7",
-  "description": "这是一个UI框架",
+  "description": "这是一个简易UI框架",
   "main": "dist/index.js",
   "scripts": {
     "start": "parcel index.html --no-cache",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wh2887/init-ui.git"
+    "url": "git+https://github.com:wuchuan123/vue-ui-demo.git"
   },
   "keywords": [
     "vue",
@@ -22,9 +22,9 @@
   "author": "McCallWang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wh2887/init-ui/issues"
+    "url": "https://github.com:wuchuan123/vue-ui-demo/issues"
   },
-  "homepage": "https://github.com/wh2887/init-ui#readme",
+  "homepage": "https://github.com:wuchuan123/vue-ui-demo#readme",
   "dependencies": {
     "init-ui-demo": "^0.0.1",
     "vue": "^2.6.11",

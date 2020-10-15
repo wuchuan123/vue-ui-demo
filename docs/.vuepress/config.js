@@ -1,13 +1,13 @@
 module.exports = {
-  base:'/init-ui/',
-  title: 'Init UI',
+  base:'/CentChuan-UI/',
+  title: 'CentChuan UI',
   description: '一个好用的 UI 框架',
   themeConfig: {
     displayAllHeaders: true,
     nav: [
       { text: '主页', link: '/' },
       { text: '文档', link: '/install/' },
-      { text: 'GitHub', link: 'https://github.com/wh2887/init-ui/' },
+      { text: 'GitHub', link: 'https://github.com:wuchuan123/vue-ui-demo/' },
     ],
     sidebar: [
       {
