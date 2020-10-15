@@ -5,7 +5,7 @@
     <img alt="Travis (.org)" src="https://img.shields.io/travis/wh2887/init-ui">
 </p>
 
-作者： McCallWang  
+作者： CentChuan  
 
 ## 介绍
 这是我在学习 Vue 的过程中做的一个 UI 框架，希望对你有用。
@@ -17,16 +17,16 @@
     ```
     IE 15 及以上浏览器都支持此样式
     
-2. 安装 init-ui
+2. 安装 CC UI
     ```
-    npm i --save init-ui
+    npm i --save CC-ui
     ```
-3. 引入 init-ui
+3. 引入 CC-ui
     ```javascript
     import {Button, ButtonGroup, Icon,Col, Collapse, CollapseItem, Content, Footer, Header, Input, Layout, Popover
              , Row, Sider, Tabs, TabsHead, TabsBody, TabsItem, TabsPane, Toast,plugin
-           } from 'init-ui'
-    import 'init-ui/dist/index.css'    
+           } from 'CC-ui'
+    import 'CC-ui/dist/index.css'    
     import Vue from 'vue'
     Vue.use(plugin)
     
@@ -57,9 +57,9 @@
     }
     ```
 ## 文档
-[Init UI 官网](https://wh2887.github.io/init-ui/)
+[CC UI 官网](https://wh2887.github.io/init-ui/)
 ## 提问
-[issues](https://github.com/wh2887/init-ui/issues)
+[issues](https://github.com/wuchuan123/vue-ui-demo/issues)
 ## 变更记录
 
 ## 联系方式

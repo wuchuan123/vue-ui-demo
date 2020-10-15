@@ -5,8 +5,8 @@ title: '快速上手'
 
 ## 引入必要资源
 ```javascript
-import {Button} from "init-ui-demo";
-import "init-ui-demo/dist/index.css";
+import {Button} from "CC-ui-demo";
+import "CC-ui-demo/dist/index.css";
 ```
 
 ## 注册组件

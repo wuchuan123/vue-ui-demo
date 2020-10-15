@@ -1,6 +1,6 @@
 module.exports = {
   base:'/CentChuan-UI/',
-  title: 'CentChuan UI',
+  title: 'CC UI',
   description: '一个好用的 UI 框架',
   themeConfig: {
     displayAllHeaders: true,
