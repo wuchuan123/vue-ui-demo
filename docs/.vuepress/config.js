@@ -7,7 +7,7 @@ module.exports = {
     nav: [
       { text: '主页', link: '/' },
       { text: '文档', link: '/install/' },
-      { text: 'GitHub', link: 'https://github.com:wuchuan123/vue-ui-demo/' },
+      { text: 'GitHub', link: 'https://github.com/wuchuan123/vue-ui-demo/' },
     ],
     sidebar: [
       {
